@@ -4,7 +4,7 @@ import java.util.Scanner;
 import Facilities.AccountOfCompany;
 import Facilities.DistributionCenter;
 import Facilities.Factory;
-import Facilities.Warehouse;
+import Facilities.Warehouse ;
 import Ingredients.Cacao;
 import Ingredients.Cream;
 import Ingredients.Milk;
@@ -49,7 +49,7 @@ public class BusinessApplicationApp {
 		boolean done = false;
 		while(!done) {
 			System.out.println(message);		
-			System.out.println("-----------------------------------------");
+			System.out.println("-----------------------------------------"); 
 
 			String move = scanner.nextLine();
 			
