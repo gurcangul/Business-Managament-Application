@@ -18,7 +18,7 @@ public class AccountOfCompany {
 	
 	public void spendMoney(double money2) {
 		money-=money2;
-	}
+	} 
 	
 	public void earnMoney(double emoney) {
 		money+=emoney;

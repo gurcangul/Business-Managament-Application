@@ -15,7 +15,7 @@ public class Milk extends RawMaterial {
 	@Override
 	public String toString() {
 		return "Milk " +"volume: "+ super.getVolume();
-	}
+	} 
 	
 }
 

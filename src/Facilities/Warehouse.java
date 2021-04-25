@@ -16,7 +16,7 @@ public class Warehouse {
 	StorageTank storageYeast;
 	
 	
-	
+	 
 	public Warehouse() {
 		storageCacao =new StorageTank();
 		storageCream = new StorageTank();

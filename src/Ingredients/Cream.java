@@ -15,6 +15,6 @@ public class Cream extends RawMaterial{
 	@Override
 	public String toString() {
 		return "Cream " +"volume: " +super.getVolume();
-	}
+	} 
 	
 }

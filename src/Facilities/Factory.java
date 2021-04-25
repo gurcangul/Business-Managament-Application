@@ -16,7 +16,7 @@ public class Factory {
 	StorageArea storageYogurt;
 	public Factory() {
 		
-		storageCacao =new StorageTank();
+		storageCacao =new StorageTank(); 
 		storageCream = new StorageTank();
 		storageMilk = new StorageTank();
 		storageYeast = new StorageTank();

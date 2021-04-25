@@ -18,7 +18,7 @@ public abstract class RawMaterial {
 	public void setVolume(int volume) {
 		this.volume = volume;
 	}
-
+ 
 	@Override
 	public String toString() {
 		return "RawMaterial volume=" + volume;
